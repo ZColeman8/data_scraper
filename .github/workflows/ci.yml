@@ -30,9 +30,8 @@ jobs:
         pytest
 
     - name: Upload HTML Report
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: html-report
-        path: reports/report.html
+    uses: actions/upload-artifact@v4
+    with:
+      name: html-report
+      path: reports/report.html
 

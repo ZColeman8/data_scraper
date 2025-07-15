@@ -11,6 +11,7 @@ A Python automation project that scrapes remote job listings from [RemoteOK](htt
 - Generates a human-readable text summary report
 - Uses structured logging throughout the project
 - Includes automated tests using `pytest`
+- Generates a Pytest HTML report
 - Integrated with GitHub Actions for Continuous Integration (CI)
 
 ---

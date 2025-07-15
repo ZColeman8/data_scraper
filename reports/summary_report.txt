@@ -1,0 +1,15 @@
+📊 Total jobs scraped: 97
+
+🏢 Top Hiring Companies:
+- TransPerfect: 4 job(s)
+- Tether Operations Limited: 4 job(s)
+- TELUS Digital: 2 job(s)
+- ModelVault: 2 job(s)
+- Arbitrum Foundation: 2 job(s)
+
+🏷️ Most In-Demand Tags:
+- engineer: 39 job(s)
+- support: 37 job(s)
+- senior: 30 job(s)
+- digital nomad: 30 job(s)
+- software: 29 job(s)
